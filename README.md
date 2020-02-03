@@ -30,7 +30,7 @@ name
 PATCH api/v1/restaurants/{id}
 ```
 
-### Delete course
+### Delete restaurant
 ``` bash
 DELETE api/v1/restaurants/{id}
 ```
